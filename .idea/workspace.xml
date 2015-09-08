@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9b0072d-fd08-47cc-ab3e-011d334dc6d5" name="Default" comment="Completed - Documents, Presentation">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+    <list default="true" id="d9b0072d-fd08-47cc-ab3e-011d334dc6d5" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\ed1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\ed2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\hm1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\kb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\mr1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\mr2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\rs1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dent_common.iws" />
@@ -245,7 +251,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441715644581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="minor changes">
+      <created>1441716458819</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1441716458819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -309,7 +321,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed - Home, Domain, Milestone, About, Contact" />
     <MESSAGE value="Completed - Documents, Presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed - Documents, Presentation" />
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
