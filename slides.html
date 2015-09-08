@@ -18,12 +18,16 @@
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
-    <![endif]-->       
-    <link rel="shortcut icon" href="images/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <![endif]-->
+    <style type="text/css">
+        .timeline{list-style:none;padding:20px 0 20px;position:relative;}.timeline:before{top:0;bottom:0;position:absolute;content:" ";width:3px;background-color:#eeeeee;left:50%;margin-left:-1.5px;}.timeline>li{margin-bottom:20px;position:relative;}.timeline>li:before,.timeline>li:after{content:" ";display:table;}.timeline>li:after{clear:both;}.timeline>li:before,.timeline>li:after{content:" ";display:table;}.timeline>li:after{clear:both;}.timeline>li>.timeline-panel{width:46%;float:left;border:1px solid#d4d4d4;border-radius:2px;padding:20px;position:relative;-webkit-box-shadow:0 1px 6px rgba(0,0,0,0.175);box-shadow:0 1px 6px rgba(0,0,0,0.175);}.timeline>li>.timeline-panel:before{position:absolute;top:26px;right:-15px;display:inline-block;border-top:15px solid transparent;border-left:15px solid#ccc;border-right:0 solid#ccc;border-bottom:15px solid transparent;content:" ";}.timeline>li>.timeline-panel:after{position:absolute;top:27px;right:-14px;display:inline-block;border-top:14px solid transparent;border-left:14px solid#fff;border-right:0 solid#fff;border-bottom:14px solid transparent;content:" ";}.timeline>li>.timeline-badge{color:#fff;width:50px;height:50px;line-height:50px;font-size:1.4em;text-align:center;position:absolute;top:16px;left:50%;margin-left:-25px;background-color:#999999;z-index:100;border-top-right-radius:50%;border-top-left-radius:50%;border-bottom-right-radius:50%;border-bottom-left-radius:50%;}.timeline>li.timeline-inverted>.timeline-panel{float:right;}.timeline>li.timeline-inverted>.timeline-panel:before{border-left-width:0;border-right-width:15px;left:-15px;right:auto;}.timeline>li.timeline-inverted>.timeline-panel:after{border-left-width:0;border-right-width:14px;left:-14px;right:auto;}.timeline-badge.primary{background-color:#2e6da4!important;}.timeline-badge.success{background-color:#3f903f!important;}.timeline-badge.warning{background-color:#f0ad4e!important;}.timeline-badge.danger{background-color:#d9534f!important;}.timeline-badge.info{background-color:#5bc0de!important;}.timeline-title{margin-top:0;color:inherit;}.timeline-body>p,.timeline-body>ul{margin-bottom:0;}.timeline-body>p+p{margin-top:5px;}@media(max-width:767px){ul.timeline:before{left:40px;}
+            ul.timeline>li>.timeline-panel{width:calc(100%-90px);width:-moz-calc(100%-90px);width:-webkit-calc(100%-90px);}
+            ul.timeline>li>.timeline-badge{left:15px;margin-left:0;top:16px;}
+            ul.timeline>li>.timeline-panel{float:right;}
+            ul.timeline>li>.timeline-panel:before{border-left-width:0;border-right-width:15px;left:-15px;right:auto;}
+            ul.timeline>li>.timeline-panel:after{border-left-width:0;border-right-width:14px;left:-14px;right:auto;}}
+    </style>
+    <link rel="shortcut icon" href="images/ico/favicon.png">
 </head><!--/head-->
 
 <body>
@@ -97,162 +101,87 @@
 </header>
 <!--/header-->
 
-    <section id="blog" class="container">
-        <div class="center">
-            <h2>Blogs</h2>
-            <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+<section id="feature" class="no-margin">
+    <div class="container">
+        <hr>
+        <div class="wow">
+            <h1 style="color: #4E4E4E;"><b>Presentation Slides</b></h1>
+
         </div>
-
-        <div class="blog">
-            <div class="row">
-                 <div class="col-md-8">
-                    <div class="blog-item">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-2 text-center">
-                                <div class="entry-meta">
-                                    <span id="publish_date">07  NOV</span>
-                                    <span><i class="fa fa-user"></i> <a href="#">John Doe</a></span>
-                                    <span><i class="fa fa-comment"></i> <a href="unwant/blog-item.html#comments">2 Comments</a></span>
-                                    <span><i class="fa fa-heart"></i><a href="#">56 Likes</a></span>
-                                </div>
+        <hr>
+        <p class="lead">A project proposal is a document written by a researcher that describes in details the program for a proposed. It is like an outline of the entire research process that gives a reader a summary of information discussed in project</p>
+        <div class="row">
+            <div class="container">
+                <ul class="timeline">
+                    <li id="proposal">
+                        <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title"> Proposal Presentation </h4>
+                                <p><a href="images/dental/slides/proposal.pptx"><i class="glyphicon glyphicon-download-alt"></i> Download </a></p>
                             </div>
-                                
-                            <div class="col-xs-12 col-sm-10 blog-content">
-                                <a href="#"><img class="img-responsive img-blog" src="images/blog/blog1.jpg" width="100%" alt="" /></a>
-                                <h2><a href="unwant/blog-item.html">Consequat bibendum quam liquam viverra</a></h2>
-                                <h3>Curabitur quis libero leo, pharetra mattis eros. Praesent consequat libero eget dolor convallis vel rhoncus magna scelerisque. Donec nisl ante, elementum eget posuere a, consectetur a metus. Proin a adipiscing sapien. Suspendisse vehicula porta lectus vel semper. Nullam sapien elit, lacinia eu tristique non.posuere at mi. Morbi at turpis id urna ullamcorper ullamcorper.</h3>
-                                <a class="btn btn-primary readmore" href="unwant/blog-item.html">Read More <i class="fa fa-angle-right"></i></a>
+                            <div class="timeline-body">
+                                <!--<p class="lead">A Project Charter is a statement of the scope, objectives and participants in a project and is a critical document to ensure that everyone involved in the project is aware of its purpose and objectives</p>-->
+                                <!--<p class="lead">Project Charter was submitted before commencing work on the project. The group met with and presented the project idea and Project Charter to the CDAP Coordinator. The Project Charter was approved by the Coordinator based on her/his evaluation of the project's preliminary feasibility. Then a hard copy of the Project Charter was submitted by the group to the CDAP Team</p>-->
                             </div>
-                        </div>    
-                    </div><!--/.blog-item-->
-                        
-                    <div class="blog-item">
-                        <div class="row">
-                             <div class="col-sm-2 text-center">
-                                <div class="entry-meta"> 
-                                    <span id="publish_date">07  NOV</span>
-                                    <span><i class="fa fa-user"></i> <a href="#">John Doe</a></span>
-                                    <span><i class="fa fa-comment"></i> <a href="unwant/blog-item.html#comments">2 Comments</a></span>
-                                    <span><i class="fa fa-heart"></i><a href="#">56 Likes</a></span>
-                                </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted" id="srs">
+                        <div class="timeline-badge warning"><i class="glyphicon glyphicon-credit-card"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title"> SRS Presentation </h4>
+                                <p><a href="images/dental/slides/srs.pptx"><i class="glyphicon glyphicon-download-alt"></i> Download </a></p>
                             </div>
-                            <div class="col-sm-10 blog-content">
-                                <a href=""><img class="img-responsive img-blog" src="images/blog/blog2.jpg" width="100%" alt="" /></a>
-                                <h2><a href="unwant/blog-item.html">Consequat bibendum quam liquam viverra</a></h2>
-                                <h3>Curabitur quis libero leo, pharetra mattis eros. Praesent consequat libero eget dolor convallis vel rhoncus magna scelerisque. Donec nisl ante, elementum eget posuere a, consectetur a metus. Proin a adipiscing sapien. Suspendisse vehicula porta lectus vel semper. Nullam sapien elit, lacinia eu tristique non.posuere at mi. Morbi at turpis id urna ullamcorper ullamcorper.</h3>
-                                <a class="btn btn-primary readmore" href="unwant/blog-item.html">Read More <i class="fa fa-angle-right"></i></a>
+                            <div class="timeline-body">
+                                <!--<p class="lead">A project proposal consisted of a detailed description of a series of activities aimed at developing "Smart Dentassist"</p>-->
+                                <!--<p class="lead">The project proposal was submitted to the supervisor. Then, the proposal presentation was carried out by the research group in front of the panel of examiners</p>-->
                             </div>
-                        </div>    
-                    </div><!--/.blog-item-->
-                        
-                    <ul class="pagination pagination-lg">
-                        <li><a href="#"><i class="fa fa-long-arrow-left"></i>Previous Page</a></li>
-                        <li class="active"><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
-                        <li><a href="#">5</a></li>
-                        <li><a href="#">Next Page<i class="fa fa-long-arrow-right"></i></a></li>
-                    </ul><!--/.pagination-->
-                </div><!--/.col-md-8-->
-
-                <aside class="col-md-4">
-                    <div class="widget search">
-                        <form role="form">
-                                <input type="text" class="form-control search_box" autocomplete="off" placeholder="Search Here">
-                        </form>
-                    </div><!--/.search-->
-    				
-    				<div class="widget categories">
-                        <h3>Recent Comments</h3>
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span <span>On <a href="#">Creative</a></span>
-                                    </div>
-                                </div>
-                                <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span <span>On <a href="#">Creative</a></span>
-                                    </div>
-                                </div>
-                                <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span <span>On <a href="#">Creative</a></span>
-                                    </div>
-                                </div>
-                                
+                        </div>
+                    </li>
+                    <li id="prototype">
+                        <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title"> Prototype Presentation </h4>
+                                <p><a href="images/dental/slides/prototype.pptx"><i class="glyphicon glyphicon-download-alt"></i> Download </a></p>
                             </div>
-                        </div>                     
-                    </div><!--/.recent comments-->
-                     
-
-                    <div class="widget categories">
-                        <h3>Categories</h3>
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <ul class="blog_category">
-                                    <li><a href="#">Computers <span class="badge">04</span></a></li>
-                                    <li><a href="#">Smartphone <span class="badge">10</span></a></li>
-                                    <li><a href="#">Gedgets <span class="badge">06</span></a></li>
-                                    <li><a href="#">Technology <span class="badge">25</span></a></li>
-                                </ul>
+                            <div class="timeline-body">
+                                <!--<p class="lead">SRS stands for Software Requirements Specification, which is a document that fully describes the expected behavior of a software system. Functional requirements are documented in an SRS, as are non-functional requirements such as performance goals and descriptions of quality attributes</p>-->
+                                <!--<p class="lead">4 SRS documents, one for each component by each team member, were prepared and submitted to the supervisor. SRS document for the entire system as a whole was also prepared and submitted to the supervisor</p>-->
                             </div>
-                        </div>                     
-                    </div><!--/.categories-->
-    				
-    				<div class="widget archieve">
-                        <h3>Archieve</h3>
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <ul class="blog_archieve">
-                                    <li><a href="#"><i class="fa fa-angle-double-right"></i> December 2013 <span class="pull-right">(97)</span></a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right"></i> November 2013 <span class="pull-right">(32)</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right"></i> October 2013 <span class="pull-right">(19)</a></li>
-                                    <li><a href="#"><i class="fa fa-angle-double-right"></i> September 2013 <span class="pull-right">(08)</a></li>
-                                </ul>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted" id="trial">
+                        <div class="timeline-badge warning"><i class="glyphicon glyphicon-credit-card"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title"> Final Trial Presentation </h4>
+                                <p><a href="images/dental/slides/mid.pptx"><i class="glyphicon glyphicon-download-alt"></i> Download </a></p>
                             </div>
-                        </div>                     
-                    </div><!--/.archieve-->
-    				
-                    <div class="widget tags">
-                        <h3>Tag Cloud</h3>
-                        <ul class="tag-cloud">
-                            <li><a class="btn btn-xs btn-primary" href="#">Apple</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Barcelona</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Office</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Ipod</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Stock</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Race</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">London</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Football</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Porche</a></li>
-                            <li><a class="btn btn-xs btn-primary" href="#">Gadgets</a></li>
-                        </ul>
-                    </div><!--/.tags-->
-    				
-    				<div class="widget blog_gallery">
-                        <h3>Our Gallery</h3>
-                        <ul class="sidebar-gallery">
-                            <li><a href="#"><img src="images/blog/gallery1.png" alt="" /></a></li>
-                            <li><a href="#"><img src="images/blog/gallery2.png" alt="" /></a></li>
-                            <li><a href="#"><img src="images/blog/gallery3.png" alt="" /></a></li>
-                            <li><a href="#"><img src="images/blog/gallery4.png" alt="" /></a></li>
-                            <li><a href="#"><img src="images/blog/gallery5.png" alt="" /></a></li>
-                            <li><a href="#"><img src="images/blog/gallery6.png" alt="" /></a></li>
-                        </ul>
-                    </div><!--/.blog_gallery-->
-    			</aside>  
-            </div><!--/.row-->
+                            <div class="timeline-body">
+                                <!--<p class="lead">Drafts of the 4 final documents (one for each component by each team member) will be submitted to the supervisor for review. The final document will be prepared following the assessment of these documents</p>-->
+                            </div>
+                        </div>
+                    </li>
+                    <li id="final">
+                        <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title"> Final Presentation </h4>
+                                <p><a href="#"><i class="glyphicon glyphicon-download-alt"></i> Download - Coming Soon  </a></p>
+                            </div>
+                            <div class="timeline-body">
+                                <!--<p class="lead">4 final reports will be prepared following the guidelines uploaded on courseweb. The final reports will be submitted to the supervisor for review</p>-->
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </section><!--/#blog-->
+    </div>
+    <!--/.container-->
+</section>
 
 <footer id="footer" class="midnight-blue">
     <div class="container">
