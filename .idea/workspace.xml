@@ -2,13 +2,190 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b0072d-fd08-47cc-ab3e-011d334dc6d5" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\ed1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\ed2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\hm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\kb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\mr1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\mr2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\profile\ori\rs1.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/slides/mid.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/proposal.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/slides/proposal.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/slides/prototype.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/reg.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/slides/srs.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/srs_IT11229162.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/srs_IT12038510.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/srs_IT12043842.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/srs_IT12062034.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/srs_main.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dental/docs/topic.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timeline.css" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\404.xcf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\accordion1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ads\ad1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ads\ad2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ads\ad3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ads\ad4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\avatar1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\avatar2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\avatar3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\blog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\blog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\boy.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\boy2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\boy3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\comments_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\gallery6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\girl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\thumb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\thumb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\blog\thumb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\client1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\client2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\client3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\contact.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\slides\mid.pptx" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\slides\proposal.pptx" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\slides\prototype.pptx" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\dental\slides\srs.pptx" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\gallery\gallery6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ico\apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ico\apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ico\apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ico\apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ico\favicon_.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\image_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\logo_.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\man1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\man2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\man3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\man4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\partners\partner_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\full\item9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\portfolio\recent\item9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\dark_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\default\sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\facebook\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\prettyPhoto\light_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ribon_one.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\ribon_two.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\search_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\service\client1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\service\client2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\service\client3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\service\image_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\service\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\bg_services.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\bg_services.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\services6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\services\slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\img1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\img2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider\img3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\slider_one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\tab1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\tab2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\team-member.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\images\testimonials1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\about-us.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\blog-item.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\contact-us.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\milestone_.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\sendemail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\services.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\old\shortcodes.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\unwant\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\unwant\blog-item.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\unwant\pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\unwant\sendemail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\dent_common\unwant\shortcodes.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs.html" afterPath="$PROJECT_DIR$/docs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milestone.html" afterPath="$PROJECT_DIR$/milestone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides.html" afterPath="$PROJECT_DIR$/slides.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dent_common.iws" />
@@ -34,8 +211,8 @@
       <file leaf-file-name="docs.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="25" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="143" column="61" selection-start-line="143" selection-start-column="61" selection-end-line="143" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -46,8 +223,8 @@
       <file leaf-file-name="slides.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slides.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.461538">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="14" />
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="152" column="72" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -55,26 +232,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="milestone.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/milestone.html">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.7083333">
+              <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2395834">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +257,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -106,15 +278,16 @@
         <option value="$PROJECT_DIR$/old/about-us_old.html" />
         <option value="$PROJECT_DIR$/old/index_old.html" />
         <option value="$PROJECT_DIR$/old/about-us.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/domain.html" />
         <option value="$PROJECT_DIR$/old/milestone_.html" />
         <option value="$PROJECT_DIR$/unwant/blog-item.html" />
+        <option value="$PROJECT_DIR$/css/timeline.css" />
         <option value="$PROJECT_DIR$/milestone.html" />
-        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/docs.html" />
         <option value="$PROJECT_DIR$/slides.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -187,6 +360,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -257,7 +431,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441716458819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project cleanup">
+      <created>1441719134330</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1441719134330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -322,7 +502,8 @@
     <MESSAGE value="Completed - Home, Domain, Milestone, About, Contact" />
     <MESSAGE value="Completed - Documents, Presentation" />
     <MESSAGE value="minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+    <MESSAGE value="project cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="project cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -396,14 +577,6 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/milestone_.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,88 +746,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8172043">
+          <caret line="179" column="1" selection-start-line="179" selection-start-column="1" selection-end-line="179" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/index.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37037036">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/about-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unwant/shortcodes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.105820104">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unwant/pricing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unwant/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/pricing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="84" column="29" selection-start-line="76" selection-start-column="24" selection-end-line="84" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.83082706">
+          <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#2;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/milestone_.html">
+    <entry file="file://$PROJECT_DIR$/milestone.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="163" column="63" selection-start-line="163" selection-start-column="55" selection-end-line="163" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unwant/blog-item.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.67105263">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -688,10 +805,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09586466">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#2;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="143" column="61" selection-start-line="143" selection-start-column="61" selection-end-line="143" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slides.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="152" column="72" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67105263">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.7083333">
+          <caret line="105" column="32" selection-start-line="105" selection-start-column="32" selection-end-line="105" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -701,47 +851,6 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="25" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slides.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.461538">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/milestone.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2395834">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
